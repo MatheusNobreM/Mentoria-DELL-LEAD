@@ -1,0 +1,4 @@
+Primeiro nome,  Último nome,  Cargo,  Ramal,  E-mail
+Amy, Baker,  Finance Chair,  x345,  abaker@ourcompany.com  
+Chris, Donaldson,  Accounting Dir.,  x621,  cdonaldson@ourcompany.com  
+Erin, Freeman,  Sr. VP,  x879,  efreeman@ourcompany.com  
